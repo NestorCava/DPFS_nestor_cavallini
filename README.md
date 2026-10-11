@@ -37,3 +37,9 @@ Tu rol será el de desarrollar el sitio asegurándote de que:
 ### URL del repositorio
 
 [DPFS_nestor_cavallini](https://github.com/NestorCava/DPFS_nestor_cavallini.git)
+
+### Temática
+
+La temática del sitio será orientada a una empresa que bride servicios y venda productos tecnológicos para automatizaciones y control en hogares y/o edificios, lo que comunmente se llama domótica. 
+
+Los usuarios de la web serán personas que quieran instalar estos dispositivos en sus casas y/o profesionales. Se les brindará orientaciónen el diseño, instalación y se realizará venta de productos.
