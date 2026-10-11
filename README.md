@@ -43,3 +43,5 @@ Tu rol será el de desarrollar el sitio asegurándote de que:
 La temática del sitio será orientada a una empresa que bride servicios y venda productos tecnológicos para automatizaciones y control en hogares y/o edificios, lo que comunmente se llama domótica. 
 
 Los usuarios de la web serán personas que quieran instalar estos dispositivos en sus casas y/o profesionales. Se les brindará orientaciónen el diseño, instalación y se realizará venta de productos.
+
+Me interesa el tema desde hace tiempo. En la secundaria me recibí como técnico en electrónica y recientemente me recibí como Bioingeniero. Junto con mis hermanos tenemos una empresa de instalaciones eléctricas y me gustaria que la misma incursione en esta temática.
