@@ -86,7 +86,7 @@ ABB Smart Buildings es la división de ABB dedicada al desarrollo de soluciones 
 
 #### Home
 
-![Wireframe Home](wireframes\Home.png)
+![Wireframe Home](./wireframes/Home.png)
 
 * **1-** Header: logo, navegación principal, búsqueda, cuenta y carrito de compras con contador.
 
