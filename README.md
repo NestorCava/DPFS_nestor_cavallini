@@ -66,18 +66,40 @@ Es una empresa argentina dedicada a la integración e instalación de soluciones
 
 Loxone es una empresa dedicada al desarrollo de soluciones de automatización integral para viviendas, edificios comerciales, hoteles y proyectos industriales. Su propuesta consiste en centralizar el control de iluminación, climatización, seguridad, energía, audio, accesos y otros sistemas mediante una plataforma propia diseñada para maximizar el confort, la eficiencia energética y la automatización inteligente. El sitio web combina información técnica y comercial, mostrando las distintas aplicaciones de la plataforma, sus productos, casos de uso y recursos para profesionales, destacando especialmente la automatización basada en comportamientos automáticos más que en el control manual de los dispositivos.
 
-**4. [Crestron Home](https://www.crestronhome.com/)**
+**5. [Crestron Home](https://www.crestronhome.com/)**
 
 Crestron Home es la solución de automatización residencial de Crestron, orientada al segmento de viviendas de alta gama y proyectos personalizados. Su plataforma integra iluminación, climatización, persianas, audio, video, seguridad, redes y entretenimiento en un único ecosistema administrado desde una interfaz intuitiva. El sitio web presenta un enfoque premium, centrado en la experiencia del usuario y el diseño de espacios inteligentes, mostrando cómo la tecnología puede integrarse de forma discreta en la arquitectura del hogar. Además de describir las funcionalidades del sistema, ofrece información sobre productos, integradores certificados y soluciones adaptadas a diferentes tipos de proyectos residenciales.
 
-**5. [Savant](https://www.savant.com/)**
+**6. [Savant](https://www.savant.com/)**
 
 Savant es una empresa especializada en soluciones de hogares inteligentes de alta gama, enfocada en integrar automatización, entretenimiento, gestión energética y control del hogar dentro de una única plataforma. Su propuesta busca ofrecer una experiencia tecnológica sofisticada, combinando iluminación, climatización, seguridad, audio, video, energía y carga de vehículos eléctricos mediante interfaces modernas y fáciles de utilizar. El sitio web tiene un marcado enfoque comercial y aspiracional, utilizando imágenes de residencias de lujo para mostrar cómo la tecnología puede mejorar el confort, la eficiencia y el estilo de vida de sus usuarios, además de presentar sus diferentes líneas de productos y soluciones.
 
-**6. [Schneider Electric (Wiser)](https://www.se.com/)**
+**7. [Schneider Electric (Wiser)](https://www.se.com/)**
 
 Wiser es la plataforma de hogar inteligente desarrollada por Schneider Electric, orientada a mejorar la eficiencia energética, el confort y la seguridad mediante la automatización de viviendas. Su propuesta consiste en integrar el control de iluminación, climatización, energía, persianas y dispositivos inteligentes dentro de un sistema conectado que permite optimizar el consumo eléctrico y simplificar la gestión del hogar. El sitio web presenta un enfoque tanto comercial como informativo, destacando las ventajas del ahorro energético, la sostenibilidad y la conectividad, además de ofrecer información sobre los diferentes dispositivos del ecosistema Wiser, su compatibilidad y las posibilidades de instalación tanto en viviendas nuevas como existentes.
 
-**7. [ABB Smart Buildings](https://new.abb.com/buildings)**
+**8. [ABB Smart Buildings](https://new.abb.com/buildings)**
 
 ABB Smart Buildings es la división de ABB dedicada al desarrollo de soluciones para edificios inteligentes, enfocadas en la automatización, la gestión energética y el control de la infraestructura en entornos comerciales, corporativos, industriales y residenciales. Su propuesta consiste en integrar sistemas como iluminación, climatización, distribución eléctrica, control de accesos, seguridad y monitoreo energético para mejorar la eficiencia operativa, el confort de los ocupantes y la sostenibilidad de los edificios. El sitio web tiene un enfoque principalmente institucional y comercial, presentando su ecosistema de tecnologías, plataformas de automatización y soluciones digitales para distintos tipos de proyectos, con un fuerte énfasis en la innovación, la eficiencia energética y la transformación hacia edificios más inteligentes, seguros y sostenibles.
+
+### Wireframes
+
+#### Home
+
+![Wireframe Home](wireframes\Home.png)
+
+* **1-** Header: logo, navegación principal, búsqueda, cuenta y carrito de compras con contador.
+
+* **2-** Hero con propuestas, dos botones para interactuar (ejemplo: ir a ver productos y pedir visita técnica) y una casa interactiva con selector de escenas.
+
+* **3-** Tecnologías compatibles
+
+* **4-** Categorías trabajadas: una principal (por ejemplo iluminación) y cuatro secundarias.
+
+* **5-** Listado de productos destacados en formato de tarjetas. Se puede encontrar una información mínima y a travéz de ella se puede acceder al detalle completo.
+
+* **6-** Servicios brindados explicados en orden que se van aplicando.
+
+* **7-** Contacto para solicitar una visita técnica
+
+* **8-** Footer: enlaces de productos, emplresa y ayuda.
