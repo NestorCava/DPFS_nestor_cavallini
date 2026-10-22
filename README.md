@@ -103,3 +103,25 @@ ABB Smart Buildings es la división de ABB dedicada al desarrollo de soluciones 
 * **7-** Contacto para solicitar una visita técnica
 
 * **8-** Footer: enlaces de productos, emplresa y ayuda.
+
+#### Detalle de producto
+
+Para acceder se usará la ruta `/producto/:id` dónde "id" es el identificador del producto.
+
+![Wireframe Detalle del Producto](./wireframes/DetalleProducto.png)
+
+* **1-** Header común
+
+* **2** Migas de pan para volver a la categoría.
+
+* **3** Galería: imagen principal y miniaturas que la reemplazan al tocarla.
+
+* **4** Nombre, descripción corta, valoración y precio.
+
+* **5** Variantes: color y protocolos. Actualizan el precio
+
+* **6** Cantidad y botón de compra. Opción para sumar la instalación como servicio.
+
+* **7** Pestañas con descripción, especificaciones, compatibilidad y reseñas.
+
+* **8** Productos relacionados.
