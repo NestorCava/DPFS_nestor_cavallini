@@ -125,3 +125,63 @@ Para acceder se usará la ruta `/producto/:id` dónde "id" es el identificador d
 * **7** Pestañas con descripción, especificaciones, compatibilidad y reseñas.
 
 * **8** Productos relacionados.
+
+#### Carrito de compras
+
+La ruta para acceder al carrito de compras será `/carrito` dónde "id" es el identificador del producto.
+
+![Wireframe Carrito de Compras](./wireframes/CarritoDeCompras.png)
+
+* **1** Header común con contador actualizado.
+
+* **2** Lista de productos: miniatura, nombre y variante, cantidad editable, subtotal y opción de quitar.
+
+* **3** Servicios (instalación) como linea aparte y distinta visualmente.
+
+* **4** Resumen fijo al hacer scroll: subtotal, servicios, envío y total.
+
+* **5** Botón principal. Si no hay sesión iniciada, lleva al Login y luego vuelve al carrito.
+
+* **6** Sugerencias de productos que completan el sistema
+
+#### Formulario de Registro
+
+La ruta al mismo será `/registro`
+
+![Wireframe Formulario de Registro](./wireframes/Registro.png)
+
+* **1** Header mínimo, sin navegación para que el foco esté en el formulario.
+
+* **2** Panel lateral con beneficios de tener cuenta. En mobile se oculta.
+
+* **3** Datos básicos: nombre, apellido, email y contraseña con confirmación.
+
+* **4** Avatar opcional con vista previa.
+
+* **5** Indicador de fortaleza de contraseña mientras se escribe.
+
+* **6** Tipo de cliente: particular o instalador/profesional.
+
+* **7** Botón de envío: los errores deben aparecer abajo de cada campo.
+
+* **8** Enlace a Login.
+
+#### Formulario de Login
+
+Ruta de acceso al formulario: `/login`
+
+![Wireframe Formulario de Login](./wireframes/Login.png)
+
+* **1** Mismo Header mínimo que en el registro.
+
+* **2** Panel lateral similar al del registro pero más corto para mantener coherencia entre las dos pantallas.
+
+* **3** Campo de email.
+
+* **4** Campo de contraseña con botón para mostrar u ocultar.
+
+* **5** Recordarme y recuperación de contraseña.
+
+* **6** Botón principal. Si las credenciales fallan, el mensaje de error debe aparecer arriba del formulario.
+
+* **7** Enlace a Registro.
