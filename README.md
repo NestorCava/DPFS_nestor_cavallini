@@ -185,3 +185,7 @@ Ruta de acceso al formulario: `/login`
 * **6** Botón principal. Si las credenciales fallan, el mensaje de error debe aparecer arriba del formulario.
 
 * **7** Enlace a Registro.
+
+### Bocetos
+
+Con ayuda de inteligencia artificial se crearon los bocetos de las distintas pantallas con una idea de colores, tipografía y logo de la empresa. Los mismos se encuentran en la carpeta `design`
