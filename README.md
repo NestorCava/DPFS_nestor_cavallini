@@ -189,3 +189,4 @@ Ruta de acceso al formulario: `/login`
 ### Bocetos
 
 Con ayuda de inteligencia artificial se crearon los bocetos de las distintas pantallas con una idea de colores, tipografía y logo de la empresa. Los mismos se encuentran en la carpeta `design`
+
